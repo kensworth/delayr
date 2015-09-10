@@ -1,0 +1,12 @@
+Syntax:
+
+Send to kennethzhang@yahoo.com at 5:00pm
+
+Ken,
+
+Hello. This is a test.
+
+Goodbye
+
+---> delayr parses out the first line, using sugarjs and knwl.js, queues the email, and then sends it at the prescribed date to the intended recipient
+
